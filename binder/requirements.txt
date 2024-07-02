@@ -1,4 +1,7 @@
 redist @ git+https://github.com/lorenzennio/redist@a4156b6
+cabinetry==0.5.2
+# arviz==0.18.0
+# pymc==5.10.2
 
 # Ensure Jupyter notebook
 notebook~=6.0
