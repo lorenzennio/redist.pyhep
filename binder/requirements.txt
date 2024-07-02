@@ -1,4 +1,4 @@
-redist @ git+https://github.com/lorenzennio/redist@7dfb405e
+redist @ git+https://github.com/lorenzennio/redist@a4156b6
 
 # Ensure Jupyter notebook
 notebook~=6.0
