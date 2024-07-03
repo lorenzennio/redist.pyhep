@@ -1,4 +1,4 @@
-redist @ git+https://github.com/lorenzennio/redist@a4156b6
+redist @ git+https://github.com/lorenzennio/redist@8f0437d
 cabinetry==0.5.2
 # arviz==0.18.0
 # pymc==5.10.2
