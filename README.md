@@ -5,7 +5,9 @@
 <h3 align="center">A novel reinterpretation method for high-energy physics results.</h4>
 
 [![Binder](https://binderhub.ssl-hep.org/badge_logo.svg)](https://binderhub.ssl-hep.org/v2/gh/lorenzennio/redist.pyhep/HEAD)
-[![DOI](https://zenodo.org/badge/381276327.svg)](...)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12638401.svg)](https://doi.org/10.5281/zenodo.12638401)
+
+
 
 ## Overview
 Experimental High Energy Physics has entered an era of precision measurements. However, measurements of many of the accessible processes assume that the final states' underlying kinematic distribution is the same as the Standard Model prediction. This assumption introduces an implicit model-dependency into the measurement, rendering the reinterpretation of the experimental analysis complicated without reanalysing the underlying data.
