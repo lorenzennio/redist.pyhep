@@ -19,17 +19,16 @@ The implementation - redist - is an extension to the [pyhf](https://pyhf.readthe
 
 **Check out the paper [here](https://arxiv.org/pdf/2402.08417.pdf).**
 
-## Dependencies
-This implementation is based on the [pyhf](https://github.com/scikit-hep/pyhf) software for statistical inference.
-
-## Installation
+## Run locally
 
 ```bash
 # Clone the redist repository
-git clone https://github.com/lorenzennio/redist.git
+git clone git@github.com:lorenzennio/redist.pyhep.git
 
-# Install 
-pip install -e redist
+cd redist.pyhep/
+
+# Install dependencies
+pip install -r binder/requirements.txt
 ```
 
 ## Contact
