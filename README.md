@@ -16,7 +16,6 @@ We present [a novel reweighting method](https://arxiv.org/abs/2402.08417) in ord
 
 The implementation - redist - is an extension to the [pyhf](https://pyhf.readthedocs.io/) software. It can easily be interfaced with the [EOS](https://eos.github.io/) software, which allows us to perform flavor physics phenomenology studies. Beyond the [pyhf](https://pyhf.readthedocs.io/) or [HistFactory](https://cds.cern.ch/record/1456844/files/CERN-OPEN-2012-016.pdf) likelihood specification, only minimal information is necessary to make a likelihood model-agnostic and hence easily reinterpretable. We showcase that publishing such likelihoods is crucial for a full exploitation of experimental results.
 
-
 **Check out the paper [here](https://arxiv.org/pdf/2402.08417.pdf).**
 
 ## Run locally
@@ -34,3 +33,7 @@ pip install -r binder/requirements.txt
 ## Contact
 
 For further inquiries, you can talk to us via [Discord](https://discord.gg/bmaVUQcR4w).
+
+## Further links
+- [Indico](https://indico.cern.ch/event/1384010/timetable/#2-constructing-model-agnostic)
+- [Talk recording](https://www.youtube.com/watch?v=o6T0s0cxnj0)
